@@ -98,3 +98,14 @@ button {
 .attribution a {
   color: #3e52a3;
 }
+
+/* media query */
+
+@media (max-width: 418px) {
+  button {
+    padding: 1.4rem;
+  }
+  main {
+    padding: 1.6rem;
+  }
+}

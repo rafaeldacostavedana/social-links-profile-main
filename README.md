@@ -10,12 +10,12 @@ The challenge required creating hover and focus states for all interactive eleme
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](Screenshot-site.png)
 
 ### Links
 
 - Solution URL: [https://github.com/rafaeldacostavedana/social-links-profile-main]
-- Live Site URL: [https://yourusername.github.io/social-links-profile](https://yourusername.github.io/social-links-profile)
+- Live Site URL: [https://rafaeldacostavedana.github.io/social-links-profile-main/]
 
 ## My process
 
